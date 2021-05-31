@@ -1,0 +1,17 @@
+#navbar {
+    background-color: aquamarine;
+    min-height: 5em;
+}
+
+#col-right {
+    background-color: cadetblue;
+}
+
+#col-left {
+    background-color: cornflowerblue;
+}
+
+#footer {
+    background-color: darkgreen;
+    min-height: 2em;
+}
